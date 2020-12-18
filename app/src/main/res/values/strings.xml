@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="api_key">YOUR_API_KEY</string>
+
+</resources>

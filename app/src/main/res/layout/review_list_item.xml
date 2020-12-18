@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/hospitalName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="참 좋은 동물 병원"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/hospitalAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="서울시 강남구 압구정로 119"
+        android:textSize="14dp"
+        android:paddingLeft="10dp"/>
+</LinearLayout>
